@@ -55,7 +55,7 @@ This project was completed as part of an SQL internship exercise using SQL Serve
   <img width="1146" height="651" alt="Screenshot 2026-06-07 010742" src="https://github.com/user-attachments/assets/2095b6fa-0eab-4f72-8f85-eaefbbda28e8" />
 
 * Duplicate Detection Query
-  <img width="1029" height="655" alt="Screenshot 2026-06-07 010901" src="https://github.com/user-attachments/assets/15aa5f1a-4dc6-4c04-935f-742201730566" />
+  <img width="1009" height="579" alt="Screenshot 2026-06-07 011408" src="https://github.com/user-attachments/assets/142749bc-b35c-4f2b-afc7-e12264cf7264" />
 
 
 ## Conclusion
